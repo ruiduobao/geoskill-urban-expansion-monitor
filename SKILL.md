@@ -1,4 +1,4 @@
-﻿---
+---
 name: urban-expansion-monitor
 description: >
   Detect and quantify urban expansion from multi-temporal built-up rasters. Use when the user wants to analyze changes, compare multi-temporal
